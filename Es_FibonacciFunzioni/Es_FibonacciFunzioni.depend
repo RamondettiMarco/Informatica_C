@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610099798 source:c:\users\utente\desktop\itis\informatica\c\es_fibonaccifunzioni\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+
+1610011492 c:\users\utente\desktop\itis\informatica\c\es_fibonaccifunzioni\mialibreria.h
+

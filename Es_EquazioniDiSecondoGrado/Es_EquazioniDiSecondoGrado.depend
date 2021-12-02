@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610706914 source:c:\users\utente\desktop\itis\informatica\c\es_equazionidisecondogrado\main.c
+	<stdio.h>
+	<stdlib.h>
+

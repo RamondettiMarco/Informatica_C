@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618563667 source:c:\users\utente\desktop\itis\informatica\c_3\es_leggifile\main.c
+	<stdio.h>
+	<stdlib.h>
+

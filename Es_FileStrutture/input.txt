@@ -1,0 +1,2 @@
+squadraA 10 2
+squadraB 5 5
