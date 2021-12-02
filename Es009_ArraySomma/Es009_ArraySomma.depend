@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614075417 source:c:\users\utente\desktop\itis\informatica\c\es009_arraysomma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+
+1614007265 c:\users\utente\desktop\itis\informatica\c\es009_arraysomma\mialibreria.h
+

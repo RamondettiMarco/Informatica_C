@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622108974 source:c:\users\utente\desktop\itis\informatica\c\es099_strutturefile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621443381 source:c:\users\utente\desktop\es096_strutturefile\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1621588491 source:c:\users\utente\desktop\itis\informatica\c\es096_strutturefile\main.c
+	<stdio.h>
+	<stdlib.h>
+

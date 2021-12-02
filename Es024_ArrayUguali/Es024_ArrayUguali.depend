@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1616055714 source:c:\users\utente\desktop\itis\informatica\c\es024_arrayuguali\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"mialibreria.h"
+
+1616055658 c:\users\utente\desktop\itis\informatica\c\es024_arrayuguali\mialibreria.h
+
