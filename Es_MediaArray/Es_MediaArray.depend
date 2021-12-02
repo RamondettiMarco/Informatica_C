@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1612804708 source:c:\users\utente\desktop\itis\informatica\c\es_mediaarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+
+1611220984 c:\users\utente\desktop\itis\informatica\c\es_mediaarray\mialibreria.h
+

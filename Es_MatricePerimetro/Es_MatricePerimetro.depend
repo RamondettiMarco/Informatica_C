@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620898362 source:c:\users\utente\desktop\itis\informatica\c\es_matriceperimetro\main.c
+	<stdio.h>
+	<stdlib.h>
+
