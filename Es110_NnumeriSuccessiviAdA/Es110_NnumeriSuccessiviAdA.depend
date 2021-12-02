@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610653852 source:c:\users\utente\desktop\itis\informatica\c\es110_nnumerisuccessiviada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+
+1610011492 c:\users\utente\desktop\itis\informatica\c\es110_nnumerisuccessiviada\mialibreria.h
+

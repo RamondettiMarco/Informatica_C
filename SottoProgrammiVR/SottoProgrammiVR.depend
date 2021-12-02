@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610704605 source:c:\users\utente\desktop\itis\informatica\c\sottoprogrammivr\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620984985 source:c:\users\utente\desktop\itis\informatica\c\ramondetti_marco_es1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1620984985 source:c:\users\utente\desktop\ramondetti_marco_es1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

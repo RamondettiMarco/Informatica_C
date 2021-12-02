@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619709073 source:c:\users\utente\desktop\itis\informatica\c\random\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

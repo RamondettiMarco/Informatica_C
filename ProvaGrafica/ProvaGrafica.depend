@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1623317824 source:c:\users\utente\desktop\itis\informatica\c\provagrafica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"utility.h"
+
+1622798625 c:\users\utente\desktop\itis\informatica\c\provagrafica\utility.h
+	<time.h>
+	<windows.h>
+	<wincon.h>
+	<stdio.h>
+	<conio.h>
+
