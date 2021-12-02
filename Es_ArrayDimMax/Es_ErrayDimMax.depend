@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612431969 source:c:\users\utente\desktop\itis\informatica\c\es_arraydimmax\main.c
+	<stdio.h>
+	<stdlib.h>
+
