@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618310222 source:c:\users\utente\desktop\itis\informatica\c\es_stringheuguali\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

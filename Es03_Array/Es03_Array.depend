@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1613124947 source:c:\users\utente\desktop\itis\informatica\c\es03_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+
+1613124927 c:\users\utente\desktop\itis\informatica\c\es03_array\mialibreria.h
+

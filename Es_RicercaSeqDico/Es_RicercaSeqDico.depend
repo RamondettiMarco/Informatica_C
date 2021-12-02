@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1616141988 source:c:\users\utente\desktop\itis\informatica\c\es_ricercaseqdico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	"mialibreria.h"
+
+1614939622 c:\users\utente\desktop\itis\informatica\c\es_ricercaseqdico\mialibreria.h
+

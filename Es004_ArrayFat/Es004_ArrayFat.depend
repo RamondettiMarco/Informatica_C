@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614077342 source:c:\users\utente\desktop\itis\informatica\c\es004_arrayfat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+
+1613469774 c:\users\utente\desktop\itis\informatica\c\es004_arrayfat\mialibreria.h
+

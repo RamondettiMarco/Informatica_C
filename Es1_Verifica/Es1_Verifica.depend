@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620382882 source:c:\users\utente\desktop\itis\informatica\c\es1_verifica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

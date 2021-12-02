@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611312165 source:c:\users\utente\desktop\itis\informatica\c\es_ripetizioni\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+
+1611220984 c:\users\utente\desktop\itis\informatica\c\es_ripetizioni\mialibreria.h
+

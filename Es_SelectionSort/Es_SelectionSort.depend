@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1619014211 source:c:\users\utente\desktop\itis\informatica\c\es_selectionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+
+1616664380 c:\users\utente\desktop\itis\informatica\c\es_selectionsort\mialibreria.h
+
+1619010611 source:c:\users\utente\desktop\itis\informatica\c_3\es_selectionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+
+1616660780 c:\users\utente\desktop\itis\informatica\c_3\es_selectionsort\mialibreria.h
+
