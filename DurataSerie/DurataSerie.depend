@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603462765 source:/home/alby/ITIS/3BRob/20201023/DurataSerie/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605087590 source:c:\users\utente\desktop\itis\informatica\c\019_es69_etamedia\main.c
+	<stdio.h>
+	<stdlib.h>
+

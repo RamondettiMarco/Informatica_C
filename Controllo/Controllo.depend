@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605282188 source:c:\users\utente\desktop\itis\informatica\c\controllo\main.c
+	<stdio.h>
+	<stdlib.h>
+

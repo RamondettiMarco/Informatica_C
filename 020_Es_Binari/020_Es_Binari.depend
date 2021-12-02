@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607011143 source:c:\users\utente\desktop\itis\informatica\c\020_es_binari\main.c
+	<stdio.h>
+	<stdlib.h>
+

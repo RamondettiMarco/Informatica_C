@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611403712 source:c:\users\utente\desktop\itis\informatica\c\099_es_successionepari\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+	<stdbool.h>
+
+1611220984 c:\users\utente\desktop\itis\informatica\c\099_es_successionepari\mialibreria.h
+

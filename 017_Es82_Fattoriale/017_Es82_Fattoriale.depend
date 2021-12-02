@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605085956 source:c:\users\utente\desktop\itis\informatica\c\017_es82_fattoriale\main.c
+	<stdio.h>
+	<stdlib.h>
+

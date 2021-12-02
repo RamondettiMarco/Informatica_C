@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604674993 source:c:\users\utente\desktop\itis\informatica\c\016_es43_scontocinema\main.c
+	<stdio.h>
+	<stdlib.h>
+
