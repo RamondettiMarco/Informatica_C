@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602836415 source:c:\users\utente\desktop\itis\001_es_rettangolo\main.c
+	<stdio.h>
+	<stdlib.h>
+

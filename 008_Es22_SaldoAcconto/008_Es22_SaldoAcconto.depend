@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603825267 source:c:\users\utente\desktop\itis\c\008_es22_saldoacconto\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603825267 source:c:\users\utente\desktop\itis\informatica\c\008_es22_saldoacconto\main.c
+	<stdio.h>
+	<stdlib.h>
+

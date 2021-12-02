@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603789939 source:c:\users\utente\desktop\itis\c\005_es19_sconto\main.c
+	<stdio.h>
+	<stdlib.h>
+

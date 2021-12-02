@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603964629 source:c:\users\utente\desktop\itis\c\010_es26_triangoli\main.c
+	<stdio.h>
+	<stdlib.h>
+

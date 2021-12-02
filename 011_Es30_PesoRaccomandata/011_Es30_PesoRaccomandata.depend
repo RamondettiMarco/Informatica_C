@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603965986 source:c:\users\utente\desktop\itis\c\011_es30_pesoraccomandata\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603441369 source:c:\users\utente\desktop\itis\c\003_rettangoloconcontrolli\main.c
+	<stdio.h>
+	<stdlib.h>
+
