@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1631521012 source:c:\users\utente\desktop\itis\informatica\c_4\es_ripasso\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mialibreria.h"
+
+1631518442 c:\users\utente\desktop\itis\informatica\c_4\es_ripasso\mialibreria.h
+	<stdbool.h>
+

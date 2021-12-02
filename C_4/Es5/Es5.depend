@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631868149 source:c:\users\utente\desktop\itis\informatica\c_4\es5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+

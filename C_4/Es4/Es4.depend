@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631877630 source:c:\users\utente\desktop\itis\informatica\c_4\es4\main.c
+	<stdio.h>
+	<stdlib.h>
+
